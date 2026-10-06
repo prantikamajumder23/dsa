@@ -9,8 +9,8 @@ class Solution(object):
                 op-=1
             else :
                 cp+=1
-            result = cp+op
-        return result 
+           
+        return cp+op
 
 
 
